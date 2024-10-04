@@ -312,6 +312,8 @@ class Tapper:
                 'Liquidity Pools Guide': 'BLUMERSSS',
                 '$2.5M+ DOGS Airdrop': 'HAPPYDOGS',
                 'Doxxing? What\'s that?': 'NODOXXING',
+                'Play track & type track name': 'Blum - Big City Life',
+                'Pre-Market Trading?': 'WOWBLUM'
             }
 
             payload = {'keyword': keywords.get(title)}
