@@ -313,7 +313,8 @@ class Tapper:
                 '$2.5M+ DOGS Airdrop': 'HAPPYDOGS',
                 'Doxxing? What\'s that?': 'NODOXXING',
                 'Play track & type track name': 'Blum - Big City Life',
-                'Pre-Market Trading?': 'WOWBLUM'
+                'Pre-Market Trading?': 'WOWBLUM',
+                'How to Memecoin?': 'MEMEBLUM'
             }
 
             payload = {'keyword': keywords.get(title)}
