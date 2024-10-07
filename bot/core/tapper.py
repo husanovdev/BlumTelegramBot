@@ -314,7 +314,8 @@ class Tapper:
                 'Doxxing? What\'s that?': 'NODOXXING',
                 'Play track & type track name': 'Blum - Big City Life',
                 'Pre-Market Trading?': 'WOWBLUM',
-                'How to Memecoin?': 'MEMEBLUM'
+                'How to Memecoin?': 'MEMEBLUM',
+                'Token Burning: How & Why?': 'ONFIRE'
             }
 
             payload = {'keyword': keywords.get(title)}
