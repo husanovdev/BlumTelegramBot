@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     POINTS: list[int] = [190, 230]
 
     USE_RANDOM_DELAY_IN_RUN: bool = True
-    RANDOM_DELAY_IN_RUN: list[int] = [5, 30]
+    RANDOM_DELAY_IN_RUN: list[int] = [20, 120]
 
     USE_REF: bool = False
     REF_ID: str = ''
