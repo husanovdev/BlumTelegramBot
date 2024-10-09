@@ -339,7 +339,8 @@ class Tapper:
                 'Play track & type track name': 'Blum - Big City Life',
                 'Pre-Market Trading?': 'WOWBLUM',
                 'How to Memecoin?': 'MEMEBLUM',
-                'Token Burning: How & Why?': 'ONFIRE'
+                'Token Burning: How & Why?': 'ONFIRE',
+                'Bitcoin Rainbow Chart?': 'SOBLUM'
             }
 
             payload = {'keyword': keywords.get(title)}
