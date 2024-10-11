@@ -340,7 +340,8 @@ class Tapper:
                 'Pre-Market Trading?': 'WOWBLUM',
                 'How to Memecoin?': 'MEMEBLUM',
                 'Token Burning: How & Why?': 'ONFIRE',
-                'Bitcoin Rainbow Chart?': 'SOBLUM'
+                'Bitcoin Rainbow Chart?': 'SOBLUM',
+                'Crypto Terms. Part 1': 'BLUMEXPLORER'
             }
 
             payload = {'keyword': keywords.get(title)}
