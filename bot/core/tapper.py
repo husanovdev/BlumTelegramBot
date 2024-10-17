@@ -341,7 +341,9 @@ class Tapper:
                 'How to Memecoin?': 'MEMEBLUM',
                 'Token Burning: How & Why?': 'ONFIRE',
                 'Bitcoin Rainbow Chart?': 'SOBLUM',
-                'Crypto Terms. Part 1': 'BLUMEXPLORER'
+                'Crypto Terms. Part 1': 'BLUMEXPLORER',
+                'Sharding Explained:': 'BLUMTASTIC',
+                'How to trade Perps?': 'CRYPTOFAN'
             }
 
             payload = {'keyword': keywords.get(title)}
